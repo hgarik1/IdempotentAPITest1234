@@ -1,0 +1,3 @@
+[submodule "IdempotentAPITest"]
+	path = IdempotentAPITest
+	url = ../IdempotentAPITest
